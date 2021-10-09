@@ -1,0 +1,22 @@
+/* style.css */
+
+.class {
+ background-color: rgb(240, 45, 126);
+ font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+#two{
+color: rgb(14, 14, 241);
+font-size: 36px;
+}
+
+.fonts {
+ font-size: 24px;
+}
+
+
+#four {
+ background-color: rgb(142, 246, 142);
+ font-weight: bold;
+ font-size: 24px;
+}
